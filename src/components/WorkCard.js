@@ -12,7 +12,7 @@ const WorkCard = (props) => {
                 <div className="pro-details">
                     <p>{props.text}</p>
                     <div className="btn-cont">
-                    <Link to={props.source} target="_blank" className="btn">Github</Link>
+                    <a href={props.source} target="_blank" rel="noreferrer" className="btn">Github</a>
                     </div>
                 </div>
             </div>
