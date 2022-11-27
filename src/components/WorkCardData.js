@@ -10,7 +10,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: bg4,
-        title: 'ReactMeals Food Order App',
+        title: 'ReactMeals Food Order',
         text: 'I built this simple React application as practice on React states and context. The aim was to have a fully-working cart and product update solely built with React.',
         source: 'https://github.com/nicolofabris/food-order'
     }

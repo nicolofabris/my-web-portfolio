@@ -44,4 +44,7 @@
     margin: auto;
     grid-template-columns: 1 1fr;
     }
+    .project-card h2 {
+        text-align: center;
+    }
 }
