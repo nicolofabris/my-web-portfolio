@@ -43,6 +43,17 @@ p{
 }
 @media screen and (max-width: 640px) {
     .footer-container {
-        grid-template-columns: repeat(1fr);
+        background-color: #000;
+        position: absolute;
+    }
+    .right p {
+        width: 100%;
+        position: relative;
+        width: 100%;
+        transform: translateY(50%);
+        display: none;
+    }
+    .email h4 {
+        font-size: smaller;
     }
 }
