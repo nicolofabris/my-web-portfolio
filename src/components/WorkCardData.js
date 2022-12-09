@@ -11,7 +11,7 @@ const ProjectCardData = [
     {
         imgsrc: bg4,
         title: 'ReactMeals Food Order',
-        text: 'I built this simple React application as practice on React states and context. The aim was to have a fully-working cart and product update solely built with React.',
+        text: 'I built this simple React application as practice on React states and context. The aim was to have a fully-working cart and product update solely built with React. The application is also connected to a dummy database where the informations about meals, orders and user data are stored and can be recalled at any given time. User data is validated as not to allow empty inputs from the user side',
         source: 'https://github.com/nicolofabris/food-order'
     }
 ]
