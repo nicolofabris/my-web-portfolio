@@ -25,8 +25,8 @@ const Footer = () => {
                 <h4>About myself</h4>
                 <p>This is me, Nicolò Fabris, web developer and constant learner. I enjoy discussing new projects and design challenges</p>
                 <div className="social">
-                <FaGithub size={30} style={{ color: "#fff" , marginRight: "1rem"}}/>
-                <FaLinkedin size={30} style={{ color: "#fff" , marginRight: "1rem"}}/>
+                <a href="https://github.com/nicolofabris"><FaGithub size={30} style={{ color: "#fff" , marginRight: "1rem"}}/></a>
+                <a href="https://www.linkedin.com/in/nicol%C3%B2-f-91baa417b/"><FaLinkedin size={30} style={{ color: "#fff" , marginRight: "1rem"}}/></a>
                 </div>
             </div>
         </div>
